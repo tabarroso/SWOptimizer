@@ -1,0 +1,19 @@
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Entities\bin\Debug\Entities.dll
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Entities\bin\Debug\Entities.pdb
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Entities\obj\Debug\Entities.dll
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Entities\obj\Debug\Entities.pdb
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\tangu\Desktop\bite\SWOptimizer\Entities\bin\Debug\Entities.dll
+C:\Users\tangu\Desktop\bite\SWOptimizer\Entities\bin\Debug\Entities.pdb
+C:\Users\tangu\Desktop\bite\SWOptimizer\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\tangu\Desktop\bite\SWOptimizer\Entities\obj\Debug\Entities.dll
+C:\Users\tangu\Desktop\bite\SWOptimizer\Entities\obj\Debug\Entities.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Entities\bin\Debug\Entities.dll
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Entities\bin\Debug\Entities.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Entities\obj\Debug\Entities.dll
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Entities\obj\Debug\Entities.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Entities\bin\Debug\Entities.dll
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Entities\bin\Debug\Entities.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Entities\obj\Debug\Entities.dll
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Entities\obj\Debug\Entities.pdb

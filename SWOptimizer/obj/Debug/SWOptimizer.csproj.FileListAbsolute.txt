@@ -1,0 +1,62 @@
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\bin\Debug\SWOptimizer.exe.config
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\bin\Debug\SWOptimizer.exe
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\bin\Debug\SWOptimizer.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\bin\Debug\DAL.dll
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\bin\Debug\Entities.dll
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\bin\Debug\Services.dll
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\bin\Debug\DAL.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\bin\Debug\Entities.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\bin\Debug\Services.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.csprojResolveAssemblyReference.cache
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\Add.g.cs
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\AdminView.g.cs
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\CreateAccount.g.cs
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\Log.g.cs
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\MainWindow.g.cs
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\Modify.g.cs
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\App.g.cs
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer_MarkupCompile.cache
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer_MarkupCompile.lref
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\Add.baml
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\AdminView.baml
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\CreateAccount.baml
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\Log.baml
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\MainWindow.baml
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\Modify.baml
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.g.resources
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.Properties.Resources.resources
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.csproj.GenerateResource.Cache
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.exe
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\bin\Debug\SWOptimizer.exe.config
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\bin\Debug\SWOptimizer.exe
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\bin\Debug\SWOptimizer.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\bin\Debug\DAL.dll
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\bin\Debug\Entities.dll
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\bin\Debug\Services.dll
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\bin\Debug\DAL.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\bin\Debug\Entities.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\bin\Debug\Services.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.csprojResolveAssemblyReference.cache
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\Add.g.cs
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\AdminView.g.cs
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\CreateAccount.g.cs
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\Log.g.cs
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\MainWindow.g.cs
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\Modify.g.cs
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\App.g.cs
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer_MarkupCompile.cache
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer_MarkupCompile.lref
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\Add.baml
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\AdminView.baml
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\CreateAccount.baml
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\Log.baml
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\MainWindow.baml
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\Modify.baml
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.g.resources
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.Properties.Resources.resources
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.csproj.GenerateResource.Cache
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.exe
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\SWOptimizer.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\SWOptimizer\obj\Debug\App.baml
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\SWOptimizer\obj\Debug\App.baml

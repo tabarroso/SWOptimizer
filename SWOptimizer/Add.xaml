@@ -1,0 +1,220 @@
+﻿<Window x:Class="SWOptimizer.Add"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SWOptimizer"
+        mc:Ignorable="d"
+        Title="Add" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.075*"/>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition/>
+            <RowDefinition Height="0.1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.26*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.4*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.26*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Label Content="MONSTER AWAKE" Style="{StaticResource Title2}"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="3">
+            <Label Content="MONSTER NON AWAKE" Style="{StaticResource Title2}"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="1" Content="NAME" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="2" Content="HP" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="3" Content="ATK" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="4" Content="DEF" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="5" Content="SPD" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="6" Content="CR" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="7" Content="CD" Style="{StaticResource LegStat}"/>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="2">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="1" Content="NAME NA" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="2" Content="RES" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="3" Content="ACC" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="4" Content="TYPE" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="5" Content="NAT STARS" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="6" Content="STARS" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="7" Content="HELP" Style="{StaticResource LegStat}"/>
+
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.7*"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid  Grid.Row="1">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center"  x:Name="HpBoxNa" Text="{Binding Mn.Pv}"></TextBox>
+            </Grid>
+            <Grid  Grid.Row="2">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center"  x:Name="AtkBoxNa" Text="{Binding Mn.Atk}"></TextBox>
+            </Grid>
+            <Grid  Grid.Row="3">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center"  x:Name="DefBoxNa" Text="{Binding Mn.Def}"></TextBox>
+            </Grid>
+            <Grid  Grid.Row="4">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center"  x:Name="SpdBoxNa" Text="{Binding Mn.Spd}"></TextBox>
+            </Grid>
+            <Grid  Grid.Row="5">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="CrBoxNa" Text="{Binding Mn.Crirate}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="6">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="CdBoxNa" Text="{Binding Mn.Cridom}"></TextBox>
+            </Grid>
+            <Grid  Grid.Row="7">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="ResBoxNa" Text="{Binding Mn.Res}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="8">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="AccBoxNa" Text="{Binding Mn.Acc}"></TextBox>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="4">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.7*"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="1" Content="HP" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="2" Content="ATK" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="3" Content="DEF" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="4" Content="SPD" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="5" Content="CR" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="6" Content="CD" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="7" Content="RES" Style="{StaticResource LegStat}"/>
+            <Label Grid.Row="8" Content="ACC" Style="{StaticResource LegStat}"/>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="6">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="1">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center"  x:Name="NameBox" Text="{Binding Ma.Name}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="2">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center"  x:Name="HpBox" Text="{Binding Ma.Pv}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="3">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center"  x:Name="AtkBox" Text="{Binding Ma.Atk}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="4">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center"  x:Name="DefBox" Text="{Binding Ma.Def}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="5">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center"  x:Name="SpdBox" Text="{Binding Ma.Spd}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="6">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="CrBox" Text="{Binding Ma.Crirate}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="7">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="CdBox" Text="{Binding Ma.Cridom}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="1">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="NameNaBox" Text="{Binding Ma.MonsterN}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="2" Grid.Column="1">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="ResBox" Text="{Binding Ma.Res}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="3" Grid.Column="1">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="AccBox" Text="{Binding Ma.Acc}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="4" Grid.Column="1">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="TypeBox" Text="{Binding Ma.Attribute}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="5" Grid.Column="1">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="NatStarsBox" Text="{Binding Ma.NbStarsNat}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="6" Grid.Column="1">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="StarsBox" Text="{Binding Ma.NbStars}"></TextBox>
+            </Grid>
+            <Grid Grid.Row="7" Grid.Column="1">
+                <TextBox Width="75" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="HelpBox" Text="{Binding Ma.Help}" ></TextBox>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="1">
+            <Button Content="Confirm" Command="{Binding ConfCommand}" Style="{StaticResource ConfButton}"/>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="3">
+            <Button Content="Cancel" Command="{Binding CloseCommand}" Style="{StaticResource DelButton}"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,60 @@
+﻿<Window x:Class="SWOptimizer.AdminView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SWOptimizer"
+        mc:Ignorable="d"
+        Title="AdminView" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.65*"/>
+            <ColumnDefinition Width="0.65*"/>
+            <ColumnDefinition Width="0.65*"/>
+        </Grid.ColumnDefinitions>
+        <ListView ItemsSource="{Binding MemberList, UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding Member, UpdateSourceTrigger=PropertyChanged}"/>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.6*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="2">
+                <Label Style="{StaticResource LegStat}" Content="Login:" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+            <Grid Grid.Row="3">
+                <Label Style="{StaticResource LegStat}" Content="Password:" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+            <TextBox  Grid.Column="1" Grid.Row="2" Text="{Binding Member.Login}" VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+            <TextBox  Grid.Column="1" Grid.Row="3" Text="{Binding Member.Password}" VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+        </Grid>
+        
+        <Grid Grid.Column="3" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="3">
+                <Button Content="DELETE" Command="{Binding DeleteCommand}" Style="{StaticResource DelButton}"/>
+            </Grid>
+            <Grid Grid.Row="2">
+                <Button Content="{Binding TextPromote}" Command="{Binding PromoteCommand}" Style="{StaticResource OtherButton}"/>
+            </Grid>
+            <Grid Grid.Row="4">
+                <Button Content="{Binding TextList}" Command="{Binding SwitchCommand}" Style="{StaticResource OtherButton}"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,43 @@
+C:\Users\tangu\Documents\IUT\1A\SWOptimizer\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\tangu\Documents\IUT\1A\SWOptimizer\Services\bin\Debug\Services.dll
+C:\Users\tangu\Documents\IUT\1A\SWOptimizer\Services\bin\Debug\Services.pdb
+C:\Users\tangu\Documents\IUT\1A\SWOptimizer\Services\bin\Debug\Entities.dll
+C:\Users\tangu\Documents\IUT\1A\SWOptimizer\Services\bin\Debug\Entities.pdb
+C:\Users\tangu\Documents\IUT\1A\SWOptimizer\Services\obj\Debug\Services.dll
+C:\Users\tangu\Documents\IUT\1A\SWOptimizer\Services\obj\Debug\Services.pdb
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Services\bin\Debug\Services.dll
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Services\bin\Debug\Services.pdb
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Services\bin\Debug\DAL.dll
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Services\bin\Debug\Entities.dll
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Services\bin\Debug\DAL.pdb
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Services\bin\Debug\Entities.pdb
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Services\obj\Debug\Services.dll
+C:\Users\Thib\Desktop\Projet IHM\SWOptimizer\Services\obj\Debug\Services.pdb
+C:\Users\tangu\Desktop\bite\SWOptimizer\Services\bin\Debug\Services.dll
+C:\Users\tangu\Desktop\bite\SWOptimizer\Services\bin\Debug\Services.pdb
+C:\Users\tangu\Desktop\bite\SWOptimizer\Services\bin\Debug\DAL.dll
+C:\Users\tangu\Desktop\bite\SWOptimizer\Services\bin\Debug\Entities.dll
+C:\Users\tangu\Desktop\bite\SWOptimizer\Services\bin\Debug\DAL.pdb
+C:\Users\tangu\Desktop\bite\SWOptimizer\Services\bin\Debug\Entities.pdb
+C:\Users\tangu\Desktop\bite\SWOptimizer\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\tangu\Desktop\bite\SWOptimizer\Services\obj\Debug\Services.dll
+C:\Users\tangu\Desktop\bite\SWOptimizer\Services\obj\Debug\Services.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Services\bin\Debug\Services.dll
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Services\bin\Debug\Services.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Services\bin\Debug\DAL.dll
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Services\bin\Debug\Entities.dll
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Services\bin\Debug\DAL.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Services\bin\Debug\Entities.pdb
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Services\obj\Debug\Services.dll
+C:\Users\tangu\Desktop\Projet Final\SWOptimizer\Services\obj\Debug\Services.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Services\bin\Debug\Services.dll
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Services\bin\Debug\Services.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Services\bin\Debug\DAL.dll
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Services\bin\Debug\Entities.dll
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Services\bin\Debug\DAL.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Services\bin\Debug\Entities.pdb
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Services\obj\Debug\Services.dll
+C:\Users\Thibaut\Desktop\IHM\SWOptimizer\Services\obj\Debug\Services.pdb
